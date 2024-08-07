@@ -1,0 +1,101 @@
+MarketTrendID,ProductGroupID,TrendDescription,TrendDate,TrendType,Region,SalesImpact,CustomerFeedback,CompetitorActions,IndustryNews,CreatedBy,CreatedDate
+1,4,Growth in subscription services,2020-01-01,Positive,Latin America,-8.58,High engagement on social media,Offered discounts,Market research findings,User5,2021-06-05
+2,8,Rising interest in home automation,2023-06-14,Negative,North America,2.9,Mixed reviews on product quality,Lowered prices,Economic impacts,User3,2021-01-19
+3,9,Increased focus on cybersecurity,2021-08-06,Positive,Asia-Pacific,2.92,Increased brand loyalty,Opened new stores,Economic impacts,User1,2020-07-24
+4,6,Growing popularity of wearable tech,2021-05-25,Negative,North America,1.05,Appreciation for product innovation,Launched new product line,Mergers and acquisitions,User3,2023-12-21
+5,1,Rising interest in home automation,2020-03-15,Neutral,Middle East and Africa,-2.96,Positive response from customers,Enhanced product quality,Technological advancements,User3,2020-09-10
+6,1,Increased focus on cybersecurity,2021-10-11,Positive,Latin America,4.53,Concerns about delivery times,Partnered with influencers,Market growth projections,User2,2023-06-08
+7,4,Growing popularity of wearable tech,2022-05-26,Positive,Europe,5.67,High satisfaction with customer service,Improved customer service,Government policies,User4,2023-02-07
+8,4,Increased demand for eco-friendly products,2022-11-10,Positive,Europe,9.87,Requests for more features,Enhanced product quality,Market research findings,User1,2021-01-12
+9,8,Growth in e-commerce platforms,2023-09-27,Positive,Latin America,-0.39,Requests for more features,Improved customer service,New regulations introduced,User2,2023-05-28
+10,3,Higher adoption of 5G technology,2021-01-25,Neutral,Latin America,7.62,High engagement on social media,Improved customer service,Mergers and acquisitions,User1,2023-02-10
+11,9,Shift towards online shopping,2021-06-15,Positive,Latin America,-6.61,Negative feedback on pricing,Introduced new features,Market growth projections,User1,2022-02-07
+12,3,Growth in e-commerce platforms,2022-03-06,Negative,Latin America,8.27,Appreciation for product innovation,Expanded to new regions,Launch of innovative products,User5,2022-02-27
+13,1,Increased focus on cybersecurity,2023-09-01,Positive,Europe,1.67,Appreciation for product innovation,Invested in marketing,Market growth projections,User5,2023-03-31
+14,9,Growth in e-commerce platforms,2023-01-30,Negative,Latin America,3.23,Negative feedback on pricing,Invested in marketing,Technological advancements,User5,2020-05-24
+15,9,Increased demand for eco-friendly products,2022-12-13,Negative,Asia-Pacific,0.66,Appreciation for product innovation,Lowered prices,Mergers and acquisitions,User2,2023-08-04
+16,1,Increased focus on cybersecurity,2021-10-07,Positive,Asia-Pacific,1.85,Mixed reviews on product quality,Invested in marketing,Economic impacts,User2,2023-12-09
+17,8,Growth in subscription services,2022-04-14,Positive,Latin America,4.09,Negative feedback on pricing,Launched new product line,New regulations introduced,User1,2020-05-26
+18,2,Expansion of virtual reality market,2020-04-16,Neutral,Middle East and Africa,0.88,Positive reviews from tech influencers,Expanded to new regions,Industry awards,User3,2023-12-25
+19,7,Increased demand for eco-friendly products,2020-08-18,Neutral,Latin America,4.11,Mixed reviews on product quality,Offered discounts,Market growth projections,User1,2023-01-09
+20,9,Increased demand for eco-friendly products,2023-05-11,Negative,North America,1.65,Concerns about delivery times,Invested in marketing,Launch of innovative products,User5,2021-04-22
+21,5,Shift towards online shopping,2021-03-19,Positive,Europe,-8.81,Positive response from customers,Invested in marketing,Environmental initiatives,User1,2023-10-16
+22,7,Higher adoption of 5G technology,2022-07-31,Neutral,Latin America,0.12,Mixed reviews on product quality,Expanded to new regions,Government policies,User4,2021-05-18
+23,7,Growing popularity of wearable tech,2021-04-14,Negative,North America,5.13,Concerns about delivery times,Enhanced product quality,Mergers and acquisitions,User5,2022-11-10
+24,6,Increased competition from new entrants,2021-10-11,Positive,Asia-Pacific,-1.54,Positive reviews from tech influencers,Offered discounts,Industry awards,User5,2020-06-19
+25,1,Expansion of virtual reality market,2023-07-26,Negative,Latin America,-4.57,Negative feedback on pricing,Partnered with influencers,Technological advancements,User1,2023-03-19
+26,5,Expansion of virtual reality market,2023-07-26,Positive,Asia-Pacific,4.41,Increased brand loyalty,Lowered prices,Economic impacts,User5,2023-05-19
+27,6,Growth in subscription services,2021-06-09,Neutral,Latin America,0.47,Mixed reviews on product quality,Offered discounts,Industry awards,User3,2022-07-14
+28,9,Increased competition from new entrants,2022-07-01,Positive,Europe,3.45,Mixed reviews on product quality,Enhanced product quality,Environmental initiatives,User4,2022-09-28
+29,7,Growing popularity of wearable tech,2022-03-22,Neutral,North America,5.77,Increased brand loyalty,Expanded to new regions,Market research findings,User1,2020-11-05
+30,9,Expansion of virtual reality market,2022-12-13,Positive,Europe,7.56,Appreciation for product innovation,Invested in marketing,Government policies,User4,2022-08-02
+31,2,Increased competition from new entrants,2021-09-23,Negative,Europe,-0.08,Positive reviews from tech influencers,Offered discounts,Technological advancements,User3,2023-04-11
+32,3,Expansion of virtual reality market,2020-04-09,Positive,Latin America,2.04,Negative feedback on pricing,Expanded to new regions,Technological advancements,User2,2023-02-12
+33,7,Growing popularity of wearable tech,2020-08-30,Neutral,North America,1.97,High satisfaction with customer service,Opened new stores,New regulations introduced,User2,2022-10-19
+34,9,Shift towards online shopping,2020-08-12,Positive,Latin America,6.87,Positive response from customers,Introduced new features,Launch of innovative products,User3,2021-01-18
+35,8,Expansion of virtual reality market,2020-07-02,Positive,Latin America,4.45,High satisfaction with customer service,Opened new stores,Market growth projections,User1,2023-06-12
+36,5,Growth in subscription services,2022-11-22,Negative,Middle East and Africa,9.37,Positive response from customers,Introduced new features,Government policies,User2,2022-01-25
+37,8,Growth in e-commerce platforms,2021-03-31,Neutral,Middle East and Africa,5.44,Appreciation for product innovation,Lowered prices,Technological advancements,User5,2023-11-06
+38,10,Rising interest in home automation,2022-06-15,Positive,Asia-Pacific,0.39,High engagement on social media,Lowered prices,Market research findings,User4,2020-06-11
+39,10,Increased focus on cybersecurity,2021-07-26,Positive,Middle East and Africa,-3.4,Positive reviews from tech influencers,Invested in marketing,Technological advancements,User4,2020-03-19
+40,8,Increased demand for eco-friendly products,2023-01-16,Positive,Latin America,-1.23,Positive response from customers,Expanded to new regions,Industry awards,User1,2021-09-27
+41,7,Shift towards online shopping,2022-06-09,Neutral,Asia-Pacific,0.17,Concerns about delivery times,Invested in marketing,Government policies,User4,2023-06-05
+42,9,Increased demand for eco-friendly products,2022-01-17,Positive,Middle East and Africa,-7.2,High satisfaction with customer service,Expanded to new regions,Market research findings,User5,2022-03-05
+43,10,Growing popularity of wearable tech,2021-06-28,Positive,Latin America,-6.52,High satisfaction with customer service,Launched new product line,Mergers and acquisitions,User1,2022-05-01
+44,1,Increased focus on cybersecurity,2022-04-17,Neutral,North America,1.65,Mixed reviews on product quality,Introduced new features,Economic impacts,User4,2021-01-25
+45,6,Increased focus on cybersecurity,2022-02-01,Negative,Latin America,5.72,Negative feedback on pricing,Offered discounts,New regulations introduced,User1,2021-07-06
+46,9,Increased focus on cybersecurity,2020-08-24,Neutral,North America,2.53,Positive response from customers,Enhanced product quality,Industry awards,User2,2022-03-29
+47,1,Rising interest in home automation,2021-06-27,Neutral,Latin America,-4.88,High satisfaction with customer service,Expanded to new regions,New regulations introduced,User5,2023-02-12
+48,2,Shift towards online shopping,2021-07-31,Positive,North America,3.99,Mixed reviews on product quality,Partnered with influencers,Market growth projections,User1,2020-11-05
+49,8,Increased demand for eco-friendly products,2022-12-26,Neutral,Europe,7.35,Increased brand loyalty,Invested in marketing,Market research findings,User1,2021-02-16
+50,6,Growth in subscription services,2021-03-27,Positive,Europe,4.09,Appreciation for product innovation,Opened new stores,Industry awards,User4,2021-09-29
+51,2,Higher adoption of 5G technology,2020-02-21,Negative,Europe,-5.38,Positive response from customers,Expanded to new regions,Market growth projections,User5,2022-02-16
+52,2,Shift towards online shopping,2023-10-03,Neutral,Middle East and Africa,6.3,Negative feedback on pricing,Enhanced product quality,Economic impacts,User5,2022-11-17
+53,7,Rising interest in home automation,2021-08-01,Negative,Europe,-8.62,High satisfaction with customer service,Improved customer service,Mergers and acquisitions,User2,2021-01-20
+54,9,Increased focus on cybersecurity,2022-07-13,Negative,Middle East and Africa,-4.45,Concerns about delivery times,Opened new stores,Market research findings,User3,2022-03-04
+55,9,Rising interest in home automation,2021-02-12,Negative,Middle East and Africa,5.95,High satisfaction with customer service,Expanded to new regions,Government policies,User2,2020-11-29
+56,5,Higher adoption of 5G technology,2022-10-27,Positive,North America,8.0,Increased brand loyalty,Enhanced product quality,Market research findings,User1,2021-06-03
+57,1,Growth in e-commerce platforms,2022-11-15,Negative,North America,-0.99,Positive reviews from tech influencers,Launched new product line,Environmental initiatives,User5,2023-03-10
+58,3,Shift towards online shopping,2023-09-15,Neutral,Asia-Pacific,7.57,Concerns about delivery times,Partnered with influencers,Economic impacts,User5,2020-07-12
+59,6,Rising interest in home automation,2020-07-08,Positive,Europe,-8.22,Increased brand loyalty,Opened new stores,Market research findings,User1,2023-06-09
+60,3,Shift towards online shopping,2021-03-28,Positive,Latin America,-4.01,High engagement on social media,Enhanced product quality,Mergers and acquisitions,User5,2020-09-01
+61,1,Increased competition from new entrants,2022-11-29,Positive,North America,2.16,Increased brand loyalty,Lowered prices,Market research findings,User2,2023-12-12
+62,4,Increased demand for eco-friendly products,2022-05-16,Positive,Asia-Pacific,-8.09,Positive response from customers,Launched new product line,New regulations introduced,User2,2021-10-02
+63,5,Growth in subscription services,2023-05-27,Neutral,Asia-Pacific,-3.79,Positive response from customers,Partnered with influencers,Industry awards,User4,2020-09-05
+64,6,Expansion of virtual reality market,2020-11-03,Negative,North America,-6.24,Concerns about delivery times,Lowered prices,Mergers and acquisitions,User1,2021-07-16
+65,1,Expansion of virtual reality market,2020-04-11,Negative,Asia-Pacific,9.75,Positive response from customers,Invested in marketing,Market growth projections,User1,2023-11-26
+66,3,Growth in e-commerce platforms,2022-05-02,Negative,Asia-Pacific,6.81,Mixed reviews on product quality,Launched new product line,New regulations introduced,User1,2022-01-13
+67,9,Growing popularity of wearable tech,2023-11-05,Positive,Europe,-9.95,Increased brand loyalty,Lowered prices,New regulations introduced,User1,2021-01-07
+68,7,Shift towards online shopping,2020-12-20,Negative,Latin America,3.96,Negative feedback on pricing,Expanded to new regions,Mergers and acquisitions,User5,2021-07-04
+69,9,Rising interest in home automation,2020-05-13,Positive,Europe,-6.19,Mixed reviews on product quality,Lowered prices,Technological advancements,User5,2020-01-28
+70,3,Higher adoption of 5G technology,2020-03-18,Positive,Middle East and Africa,1.16,Mixed reviews on product quality,Expanded to new regions,New regulations introduced,User1,2023-10-27
+71,5,Growing popularity of wearable tech,2020-07-07,Positive,Europe,-1.16,Negative feedback on pricing,Launched new product line,Mergers and acquisitions,User1,2022-06-11
+72,1,Shift towards online shopping,2022-12-29,Negative,Asia-Pacific,4.6,Increased brand loyalty,Opened new stores,Government policies,User2,2022-06-03
+73,4,Growth in e-commerce platforms,2023-08-14,Negative,Latin America,4.38,Positive reviews from tech influencers,Lowered prices,Market research findings,User2,2020-07-30
+74,3,Increased competition from new entrants,2022-12-10,Neutral,North America,3.13,Requests for more features,Partnered with influencers,Technological advancements,User5,2021-10-11
+75,1,Shift towards online shopping,2023-07-02,Neutral,Middle East and Africa,-0.27,Negative feedback on pricing,Invested in marketing,New regulations introduced,User4,2020-06-10
+76,9,Increased focus on cybersecurity,2023-11-18,Positive,North America,-8.46,Negative feedback on pricing,Expanded to new regions,Economic impacts,User5,2020-10-08
+77,3,Growth in e-commerce platforms,2021-09-11,Positive,Asia-Pacific,-1.41,Positive reviews from tech influencers,Lowered prices,Economic impacts,User3,2023-09-16
+78,6,Growth in e-commerce platforms,2020-02-04,Negative,Asia-Pacific,-9.64,Appreciation for product innovation,Improved customer service,Launch of innovative products,User4,2023-08-05
+79,4,Increased demand for eco-friendly products,2020-07-10,Negative,Asia-Pacific,8.58,Concerns about delivery times,Launched new product line,Launch of innovative products,User3,2021-11-17
+80,2,Shift towards online shopping,2021-11-05,Neutral,Middle East and Africa,-3.14,Concerns about delivery times,Invested in marketing,Environmental initiatives,User2,2022-10-14
+81,3,Shift towards online shopping,2021-04-17,Negative,Asia-Pacific,5.55,Requests for more features,Improved customer service,Economic impacts,User2,2022-05-02
+82,6,Increased demand for eco-friendly products,2022-08-15,Negative,Latin America,-0.26,Appreciation for product innovation,Partnered with influencers,Market research findings,User1,2021-02-07
+83,8,Growth in subscription services,2022-12-12,Positive,Latin America,-5.34,Increased brand loyalty,Enhanced product quality,Mergers and acquisitions,User1,2021-02-09
+84,1,Expansion of virtual reality market,2021-02-28,Neutral,Europe,6.86,Mixed reviews on product quality,Partnered with influencers,Environmental initiatives,User2,2020-03-05
+85,10,Expansion of virtual reality market,2021-10-16,Positive,Europe,-3.04,Appreciation for product innovation,Partnered with influencers,Mergers and acquisitions,User1,2021-08-15
+86,8,Expansion of virtual reality market,2023-11-07,Negative,Europe,-9.77,High engagement on social media,Expanded to new regions,Market growth projections,User5,2022-04-22
+87,1,Growth in subscription services,2020-09-19,Negative,Asia-Pacific,-3.13,Concerns about delivery times,Expanded to new regions,Government policies,User3,2021-06-03
+88,3,Growth in subscription services,2022-07-11,Positive,Latin America,3.97,Requests for more features,Expanded to new regions,Market research findings,User5,2022-10-20
+89,7,Growth in e-commerce platforms,2021-01-14,Negative,Europe,-5.93,High engagement on social media,Opened new stores,Economic impacts,User1,2020-04-01
+90,1,Expansion of virtual reality market,2020-06-15,Negative,Latin America,-3.07,Requests for more features,Invested in marketing,Industry awards,User5,2020-07-04
+91,7,Shift towards online shopping,2021-10-08,Neutral,North America,7.86,Positive reviews from tech influencers,Improved customer service,Mergers and acquisitions,User5,2021-05-19
+92,1,Increased demand for eco-friendly products,2022-03-17,Positive,Asia-Pacific,-5.36,Concerns about delivery times,Expanded to new regions,Environmental initiatives,User4,2021-06-25
+93,7,Rising interest in home automation,2020-10-08,Negative,Latin America,-7.32,High engagement on social media,Lowered prices,Government policies,User4,2023-07-21
+94,9,Growth in subscription services,2022-01-14,Positive,Europe,2.45,High satisfaction with customer service,Partnered with influencers,New regulations introduced,User5,2022-10-08
+95,1,Expansion of virtual reality market,2022-01-12,Negative,North America,-7.42,Requests for more features,Launched new product line,Industry awards,User4,2023-05-07
+96,8,Rising interest in home automation,2022-10-23,Positive,Asia-Pacific,-0.06,Requests for more features,Launched new product line,Launch of innovative products,User4,2022-10-30
+97,3,Growth in e-commerce platforms,2021-06-18,Neutral,Middle East and Africa,7.9,High engagement on social media,Opened new stores,Technological advancements,User5,2020-12-29
+98,5,Increased demand for eco-friendly products,2022-05-23,Neutral,Middle East and Africa,-1.55,Positive reviews from tech influencers,Partnered with influencers,Economic impacts,User3,2023-07-30
+99,5,Growth in subscription services,2022-07-01,Neutral,Middle East and Africa,7.48,Concerns about delivery times,Launched new product line,Technological advancements,User2,2020-03-20
+100,3,Expansion of virtual reality market,2021-02-07,Negative,Latin America,3.62,Increased brand loyalty,Invested in marketing,Technological advancements,User5,2022-09-30

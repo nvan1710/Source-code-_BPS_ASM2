@@ -1,0 +1,11 @@
+ProductGroupID,GroupName,GroupDescription,ParentGroupID,Category,SubCategory,MarketSegment,IsActive,DateCreated,LastUpdated,CreatedBy,UpdatedBy
+1,Electronics,Description for Electronics,6.0,Technology,Accessories,Retail,True,2022-07-31 00:00:00,2020-05-11 00:00:00,User1,Admin2
+2,Home Appliances,Description for Home Appliances,2.0,Home & Living,Gadgets,Wholesale,False,2021-02-07 00:00:00,2021-02-27 00:00:00,Admin2,Admin2
+3,Mobile Devices,Description for Mobile Devices,,Home & Living,Accessories,Online,False,2021-02-21 00:00:00,2023-02-21 00:00:00,User1,Admin2
+4,Computers,Description for Computers,1.0,Consumer Goods,Accessories,Wholesale,False,2023-07-03 00:00:00,2020-07-11 00:00:00,Admin1,Admin2
+5,Wearable Tech,Description for Wearable Tech,1.0,Technology,Gadgets,Online,True,2020-11-11 00:00:00,2021-11-08 00:00:00,Admin2,User2
+6,Audio Equipment,Description for Audio Equipment,3.0,Home & Living,Gadgets,Corporate,True,2023-08-29 00:00:00,2022-09-12 00:00:00,User1,User1
+7,Cameras,Description for Cameras,,Technology,Utilities,Online,True,2021-02-14 00:00:00,2023-02-19 00:00:00,User1,Admin2
+8,Networking,Description for Networking,6.0,Technology,Gadgets,Retail,False,2022-01-17 00:00:00,2023-05-06 00:00:00,Admin2,User2
+9,TV & Video,Description for TV & Video,,Home & Living,Accessories,Online,False,2023-09-14 00:00:00,2023-04-20 00:00:00,Admin1,User1
+10,Smart Home,Description for Smart Home,4.0,Home & Living,Utilities,Corporate,False,2020-11-28 00:00:00,2021-02-11 00:00:00,Admin1,Admin2
